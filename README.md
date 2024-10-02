@@ -8,10 +8,10 @@ A simple translator using DeepLAPI
 
 ## Requirement
 
-Python 3.12.4
+Python 3.12.4 \n
 DeepLAPIToken
 
 ## Usage
 
-Edit config.json
+Edit config.json \n
 By reacting to the flag of a country to the text you want to translate, the text will be translated into the language of that flag.
